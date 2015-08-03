@@ -1,3 +1,4 @@
+
 var app = angular.module('nbaRoutes');
 
 app.factory('httpRequestInterceptor', function () {
@@ -11,3 +12,4 @@ app.factory('httpRequestInterceptor', function () {
     }
   };
 });
+
